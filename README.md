@@ -24,13 +24,16 @@ Tools I actually needed and couldn't find done right.
 
 ---
 
-## Active work
+## Works
 
+<!-- works:start -->
+<!-- generated; do not edit by hand -->
 | Project | What it does | Status |
 |---|---|---|
-| [systray-wrap-doubler](https://github.com/dgtwzd1/systray-wrap-doubler) | Gives Windows 11 system-tray icons a compact two-row layout. No overflow arrow. No hidden icons. | `v0.1.0 — live` |
+| [systray-wrap-doubler](https://github.com/dgtwzd1/systray-wrap-doubler) | Windows 11 utility that gives system-tray icons a compact two-row layout. | `v0.1.0 — live` |
+<!-- works:end -->
 
-More in the works. Tools ship when they're solid, not when the calendar says so.
+This list is generated from public GitHub repo evidence. Tools ship when they're solid, not when the calendar says so.
 
 ---
 
