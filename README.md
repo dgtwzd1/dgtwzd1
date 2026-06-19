@@ -1,3 +1,5 @@
+![Multiverse of Al](./media/profile-banner.png)
+
 # dgtwzd1
 
 > *I build because I've needed things that nobody freely offered.*
